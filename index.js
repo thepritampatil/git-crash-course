@@ -10,9 +10,6 @@ function isAbove18(){
     return age>=18
 }
 
-a =25;
-n2 =23;
-
-function add(a,n2){
-    return a +n1;
+function newFeatureAdd(){
+    console.log("this is a new feature")
 }
